@@ -200,6 +200,9 @@ Departments are not isolated teams; they are parts of one larger ecosystem, cent
 - Sponsorship and Partnerships
 - Public Relations and Community
 - EVM / Operations (events, venues, logistics)
+- Publicity and Marketing
+- Documentation
+- Content Creation
 
 ### Collaboration by default
 
